@@ -18,7 +18,6 @@ def prescription(nfc_id):
 ser = serial.Serial('/dev/ttyACM0', 9600)
 ser2 = serial.Serial('/dev/ttyACM1',9600)
 while True:
-	
 	nfc_id = ser.readline().strip()# X\r\n
         nfc_user = nfc_id_lookup(nfc_id)
         if(nfc_id != "a"):
