@@ -6,7 +6,6 @@
  * Created by FILIPEFLOP
  * 
  * Later modified for MangoHacks by Jake Harrison
- * 
  */
  
 #include <SPI.h>
