@@ -1,5 +1,5 @@
 # Drug Dealer
-### @cody0303 , Jake Harrison, Gabby Oye, Kyle Stead, Muntaser Syed
+### Cody Clemons, Jake Harrison, Gabby Oye, Kyle Stead, Muntaser Syed
 ### Florida Institute of Technology
 
 ### This project was created during MangoHacks 2018 at Florida International University in Miami, FL. 
