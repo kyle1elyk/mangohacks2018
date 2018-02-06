@@ -2,7 +2,7 @@
 ### Cody Clemons, Jake Harrison, Gabby Oye, Kyle Stead, Muntaser Syed
 ### Florida Institute of Technology
 
-### This project was created during MangoHacks 2018 at Florida International University in Miami, FL. 
+## This project was created during MangoHacks 2018 at Florida International University in Miami, FL. 
 
 We made it with toddlers and elderly adults in mind, in an attempt to prevent under or overdosage. The whole team has experience with young children getting into medicine cabinets or older fammily members forgetting to take their medicine, or even double dosing because they forgot they took the meds earlier in the day. This device was designed to **avoid that completely**. 
 
