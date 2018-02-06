@@ -1,3 +1,4 @@
 {
-    "python.linting.enabled": false
+    "python.linting.enabled": false,
+    "python.pythonPath": "C:\\Users\\clemo\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe"
 }
